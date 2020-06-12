@@ -1,0 +1,11 @@
+{
+  "base_url": "/user/techlab-admin1/",
+  "hostname": "127.0.0.1",
+  "notebook_dir": "/home/jupyter-techlab-admin1",
+  "password": false,
+  "pid": 9061,
+  "port": 37179,
+  "secure": false,
+  "token": "",
+  "url": "http://127.0.0.1:37179/user/techlab-admin1/"
+}
