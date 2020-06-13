@@ -79,3 +79,8 @@ ls
 pwd
 cd /home/jupyter-admin-eric/Homeworks
 cd /home/jupyter-admin-eric/
+git status
+git add .
+git commit -m "mod 4+5"
+git status
+git push -u origin master

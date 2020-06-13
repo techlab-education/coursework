@@ -3,9 +3,9 @@
   "hostname": "127.0.0.1",
   "notebook_dir": "/home/jupyter-techlab-admin1",
   "password": false,
-  "pid": 20299,
-  "port": 53555,
+  "pid": 22871,
+  "port": 43185,
   "secure": false,
   "token": "",
-  "url": "http://127.0.0.1:53555/user/techlab-admin1/"
+  "url": "http://127.0.0.1:43185/user/techlab-admin1/"
 }
